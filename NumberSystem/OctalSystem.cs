@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TrySystem
+namespace NumberSystem
 {
-    class OctalSystem: ISystem
+    public class OctalSystem: ISystem
     {
         int dec;
 

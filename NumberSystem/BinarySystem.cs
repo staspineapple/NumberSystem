@@ -5,9 +5,9 @@ using System.Text;
 using System.Threading.Tasks;
 
 
-namespace TrySystem
+namespace NumberSystem
 {
-    class BinarySystem:ISystem
+    public class BinarySystem:ISystem
     {
         int dec;
 
