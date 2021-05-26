@@ -1,0 +1,12 @@
+C:\Users\StasPortable\source\repos\NumberSystem\NumberSystem\bin\Debug\net5.0\NumberSystem.deps.json
+C:\Users\StasPortable\source\repos\NumberSystem\NumberSystem\bin\Debug\net5.0\NumberSystem.dll
+C:\Users\StasPortable\source\repos\NumberSystem\NumberSystem\bin\Debug\net5.0\ref\NumberSystem.dll
+C:\Users\StasPortable\source\repos\NumberSystem\NumberSystem\bin\Debug\net5.0\NumberSystem.pdb
+C:\Users\StasPortable\source\repos\NumberSystem\NumberSystem\obj\Debug\net5.0\NumberSystem.csprojAssemblyReference.cache
+C:\Users\StasPortable\source\repos\NumberSystem\NumberSystem\obj\Debug\net5.0\NumberSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\StasPortable\source\repos\NumberSystem\NumberSystem\obj\Debug\net5.0\NumberSystem.AssemblyInfoInputs.cache
+C:\Users\StasPortable\source\repos\NumberSystem\NumberSystem\obj\Debug\net5.0\NumberSystem.AssemblyInfo.cs
+C:\Users\StasPortable\source\repos\NumberSystem\NumberSystem\obj\Debug\net5.0\NumberSystem.csproj.CoreCompileInputs.cache
+C:\Users\StasPortable\source\repos\NumberSystem\NumberSystem\obj\Debug\net5.0\NumberSystem.dll
+C:\Users\StasPortable\source\repos\NumberSystem\NumberSystem\obj\Debug\net5.0\ref\NumberSystem.dll
+C:\Users\StasPortable\source\repos\NumberSystem\NumberSystem\obj\Debug\net5.0\NumberSystem.pdb
